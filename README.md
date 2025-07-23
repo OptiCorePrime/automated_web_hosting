@@ -2,8 +2,6 @@ HostMario is an automated web hosting deployment solution built using Infrastruc
 
 With HostMario, you can streamline your infrastructure setup, automate VM provisioning and load balancing, and maintain consistent environments through parameterized configurations. Whether you're a solo developer or part of a large enterprise IT team, HostMario provides the tools you need to deploy and manage cloud-based web hosting environments efficiently.
 
-So why wait? Try HostMario today and experience how automation can transform your deployment process.
-
 Demo: https://login.hostmario.com/ Password: HostMario@12345
 
 
